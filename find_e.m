@@ -1,0 +1,1 @@
+%how to find e^xes = 0.005;ea = 100;x = 6;ex = 0;i = 0;while(ea > es)  pex = ex %previous ex  ex = ex + (x^i)/factorial(i);  ea = ((ex - pex)/ex) * 100;  i++;  printf('e^0.4 = %f',ex);endwhile
